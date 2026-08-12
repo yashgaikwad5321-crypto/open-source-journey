@@ -23,10 +23,18 @@
 - Practiced multiple rounds
 - Built a Stone-Paper-Scissors game 🎮
 
+##Day 4 - Completed
+
+- Practiced basic Python coding
+- Practiced functions and loops
+- Practiced "if/elif/else"
+- Practiced prime number and factorial programs
+- Practiced basic Linux/Ubuntu commands
+
 Progress
 
 - Day 1: ✅ Done
 - Day 2: ✅ Done
 - Day 3: ✅ Done
-- Day 4: Coming soon...
-
+- Day 4: ✅ Done
+- Day 5: Coming soon... 🚀
