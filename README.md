@@ -31,10 +31,22 @@
 - Practiced prime number and factorial programs
 - Practiced basic Linux/Ubuntu commands
 
-Progress
+## Day 5 - Completed
+
+- Practiced basic Linux/Ubuntu commands
+- Revised basic programming concepts
+- Practiced variables, data types and operators
+- Practiced input/output and conditional statements
+- Learned flowcharts and pseudocode
+- Practiced basic problem-solving and program logic
+- Prepared for starting Java
+  
+##Progress
 
 - Day 1: ✅ Done
 - Day 2: ✅ Done
 - Day 3: ✅ Done
 - Day 4: ✅ Done
-- Day 5: Coming soon... 🚀
+- Day 5: ✅ Done
+- Day 6: coming soon...
+  
